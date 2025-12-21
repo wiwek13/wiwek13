@@ -1,0 +1,221 @@
+{
+  "basics": {
+    "name": "Vivek Kushwah",
+    "label": "Senior DevSecOps Engineer",
+    "image": "",
+    "email": "wiwek13@gmail.com",
+    "phone": "+91-8989879834",
+    "url": "https://www.linkedin.com/in/wiwek13/",
+    "summary": "Senior DevSecOps Engineer with 5+ years of hands-on AWS cloud operations experience specializing in CI/CD, Infrastructure as Code, Disaster Recovery, observability, and multi-tenant production systems. Proven track record in 24x7 production support, cloud cost optimization, automation-first operations, and platform reliability. Strong Linux background with deep expertise in AWS, Kubernetes, Terraform, CI/CD pipelines, and monitoring. Experienced working remotely with global teams on business-critical platforms.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Khargone",
+      "countryCode": "IN",
+      "region": "Madhya Pradesh"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "wiwek13",
+        "url": "https://www.linkedin.com/in/wiwek13/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "ZebPay",
+      "position": "Engineer (DevSecOps)",
+      "url": "",
+      "startDate": "2024-05-01",
+      "endDate": "",
+      "summary": "Owned end-to-end cloud operations for highly available, customer-facing, multi-tenant production platforms on AWS.",
+      "highlights": [
+        "Designed and implemented CI/CD best practices using GitHub Actions with reusable workflows, SAST, container scanning, and rollback-safe deployments",
+        "Architected and implemented Disaster Recovery and backup strategies across RDS, EBS, EFS, ECR, and S3",
+        "Led migration from Azure APIM to AWS API Gateway improving security, latency, and operational simplicity",
+        "Reduced cloud spend by ~40% through rightsizing, autoscaling, tagging enforcement, and cost dashboards",
+        "Built centralized observability using Prometheus, Grafana, Thanos, and Loki with Opsgenie alerting",
+        "Participated in 24x7 on-call rotations with RCA and incident handling",
+        "Automated patching, compliance, DNS onboarding, and WAF enforcement using Terraform and AWS services"
+      ]
+    },
+    {
+      "name": "Rizzle",
+      "position": "Engineer",
+      "url": "",
+      "startDate": "2023-09-01",
+      "endDate": "2024-02-01",
+      "summary": "Managed AWS cloud infrastructure and Kubernetes workloads for production systems with high uptime requirements.",
+      "highlights": [
+        "Designed resilient Kubernetes deployments with autoscaling, probes, and rollout strategies",
+        "Built hardened Docker images using multi-stage builds and minimal base images",
+        "Implemented CI/CD using Jenkins, GitHub Actions, and ArgoCD",
+        "Developed internal automation tools for release coordination",
+        "Provided hands-on production support with monitoring via Prometheus and Grafana"
+      ]
+    },
+    {
+      "name": "Vivvix (Numerator + Kantar)",
+      "position": "DevOps Engineer",
+      "url": "",
+      "startDate": "2022-04-01",
+      "endDate": "2023-08-01",
+      "summary": "Designed and operated cloud infrastructure and CI/CD pipelines across Azure and AWS environments.",
+      "highlights": [
+        "Operated infrastructure using Terraform and Atlantis with PR-driven IaC workflows",
+        "Implemented ELK-based monitoring and alerting reducing downtime by 25%",
+        "Engineered Azure Pipelines and AKS infrastructure for scalable deployments",
+        "Managed Databricks ETL infrastructure and production data workflows",
+        "Supported releases, incidents, and cross-team coordination in Agile environments"
+      ]
+    },
+    {
+      "name": "Numerator",
+      "position": "DevOps Engineer",
+      "url": "",
+      "startDate": "2021-03-01",
+      "endDate": "2022-03-01",
+      "summary": "Owned AWS infrastructure operations with a focus on availability, DR, and observability.",
+      "highlights": [
+        "Managed AWS services including EKS, EC2, RDS, Lambda, DMS, Route53, and CloudFront",
+        "Designed CI/CD pipelines using CircleCI and GitHub Actions with caching and parallel execution",
+        "Built and operated Airflow on Kubernetes and optimized Snowflake ingestion pipelines",
+        "Implemented enterprise monitoring with Prometheus, Grafana, PagerDuty, and Slack",
+        "Handled production incidents and operational improvements"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Maulana Azad National Institute of Technology",
+      "url": "",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Technology",
+      "startDate": "2016-01-01",
+      "endDate": "2020-01-01",
+      "score": "7.57/10",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Power Performer",
+      "date": "2025-01-01",
+      "awarder": "ZebPay",
+      "summary": ""
+    },
+    {
+      "title": "Power Performer",
+      "date": "2024-01-01",
+      "awarder": "ZebPay",
+      "summary": ""
+    },
+    {
+      "title": "Star Spot Award",
+      "date": "2022-01-01",
+      "awarder": "Vivvix (K+N)",
+      "summary": ""
+    },
+    {
+      "title": "Star Spot Award",
+      "date": "2022-01-01",
+      "awarder": "Numerator",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Cloud Platforms",
+      "level": "Advanced",
+      "keywords": [
+        "AWS",
+        "Azure",
+        "EKS",
+        "AKS",
+        "EC2",
+        "RDS",
+        "S3",
+        "Lambda",
+        "Databricks",
+        "Snowflake"
+      ]
+    },
+    {
+      "name": "DevOps & CI/CD",
+      "level": "Advanced",
+      "keywords": [
+        "Terraform",
+        "Atlantis",
+        "GitHub Actions",
+        "Jenkins",
+        "ArgoCD",
+        "CircleCI",
+        "Azure Pipelines",
+        "Helm"
+      ]
+    },
+    {
+      "name": "Observability & Reliability",
+      "level": "Advanced",
+      "keywords": [
+        "Prometheus",
+        "Grafana",
+        "Thanos",
+        "Loki",
+        "ELK",
+        "PagerDuty",
+        "Opsgenie"
+      ]
+    },
+    {
+      "name": "Programming & Scripting",
+      "level": "Intermediate",
+      "keywords": [
+        "Python",
+        "Go",
+        "Java",
+        "C++",
+        "Bash",
+        "PowerShell",
+        "HCL"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Infrastructure Automation with Terraform and Azure",
+      "startDate": "2022-01-01",
+      "endDate": "",
+      "description": "Designed and implemented reusable Terraform modules with PR-driven automation using Atlantis and Azure Pipelines.",
+      "highlights": [
+        "Improved reusability and scalability of infrastructure code",
+        "Automated deployments on pull requests",
+        "Reduced manual provisioning effort"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Monitoring and Observability with Prometheus and Grafana",
+      "startDate": "2021-01-01",
+      "endDate": "",
+      "description": "Built a comprehensive monitoring and alerting platform for Kubernetes and cloud workloads.",
+      "highlights": [
+        "Custom exporters and alerting rules",
+        "Grafana dashboards for real-time visibility",
+        "Integrated PagerDuty and Slack for incident management"
+      ],
+      "url": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native"
+    }
+  ]
+}
